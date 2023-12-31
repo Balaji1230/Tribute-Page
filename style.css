@@ -1,0 +1,41 @@
+*{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header{
+    background-color: bisque;
+    color: black;
+    border-radius: 10px;
+    
+}
+
+h1,h2{
+    margin: 15px;
+    padding: 5px;
+    text-align: center;
+}
+
+img{
+    padding: 15px;
+    width: 250px;
+    display: inline-block;
+}
+.quote{
+    text-align: center;
+}
+nav{
+    background-color: burlywood;
+    border-radius: 40px;
+
+}
+.navs{
+    padding: 5px;
+}
+
+.bord{
+    margin-top: 50px;
+    border-radius: 80%;
+    display: inline-block;
+}
+
